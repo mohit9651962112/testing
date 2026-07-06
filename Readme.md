@@ -1,4 +1,2 @@
 
 heeelo
-mkCIA
-wwwc
